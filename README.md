@@ -52,3 +52,5 @@ for index, image_url in enumerate(images):
     with open(f"{index}.png", "wb") as img:
         img.write(image_request.content)
 ```
+## P.S.
+The scraper is ported from here: https://github.com/TobyG74/tiktok-api-dl. I do not own the https://ssstik.io/ service, this code is just a relief for developers, you can always use the original service manually.
