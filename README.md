@@ -12,8 +12,8 @@ Error Handling: Robust error handling for invalid URLs and network issues.
 ## Usage
 ### Clone the repository:
 ```
-git clone https://github.com/yourusername/ssstik-scraper.git
-cd ssstik-scraper
+git clone https://github.com/Mectron2/Ssstik-Scraper.git
+cd Ssstik-Scraper
 ```
 
 ## Install dependencies:
